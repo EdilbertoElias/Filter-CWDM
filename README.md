@@ -147,7 +147,7 @@ Edilberto Elias Xavier Junior - Uinersidade Federal de Campina Grande - VIRTUS-C
 
 ## 📅 Data do Projeto
 
-Janeiro de 2026
+Janeiro de 2025
 
 ## 📄 Licença
 
